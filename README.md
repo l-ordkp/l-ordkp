@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src= "https://media.tenor.com/wphHzlw3LhgAAAAC/111.gif">
+<img align="center" alt="Coding" width="400" src= "https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u">
 <h1 align="center">Hi 👋, I'm Kshitij Pal</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://imgs.search.brave.com/LWpdhU2kZEgmSPe5nkf7x5Jcuiiic6iBwkewjXCVvko/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdDMu/ZGVwb3NpdHBob3Rv/cy5jb20vMjYxNzIw/OS8xNjI3Ny92LzQ1/MC9kZXBvc2l0cGhv/dG9zXzE2Mjc3NTY5/Ni1zdG9jay1pbGx1/c3RyYXRpb24tcHJv/Z3JhbW1lci1jYXJ0/b29uLWNoYXJhY3Rl/ci5qcGc">
