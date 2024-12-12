@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, NLP**
 
-- 💬 Ask me about **Data Science and Analytics**
+- 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **kpal645@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/kshitij-pal-1299a2175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij-pal-1299a2175/" height="30" width="40" /></a>
 <a href="https://kaggle.com/lordkp69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lordkp69" height="30" width="40" /></a>
-<a href="https://instagram.com/l_ordkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l_ordkp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
